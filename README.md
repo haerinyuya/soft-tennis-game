@@ -29,7 +29,7 @@
 ## デモ
 二人で対戦の実際の画面です。
 
-![soft-tennis-game-gif](https://github.com/user-attachments/assets/77cb5a28-3292-4cba-a076-adbb062e157a)
+![soft-tennis-game-gif](https://github.com/user-attachments/assets/f234e7ce-3a58-4098-92c7-edfa4f0c6507)
 
 &nbsp;  
 
